@@ -62,12 +62,17 @@ function parseScore(score) {
   return {awayScore, homeScore};
 }
 
+function parseTime(time) {
+  const [startTime, endTime] = time.split(' - ');
+  return {startTime, endTime};
+}
+
 function getAllGames(res) {
   const $ = res.$;
   $('.rgMasterTable tbody tr').each((i, row) => {
     const children = $(row).children('td');
     const date = $(children[1]).text();
-    const [startTime, endTime] = $(children[2]).text().split(' - ');
+    const { startTime, endTime } = parseTime($(children[2]).text());
     const { awayScore, homeScore } = parseScore($(children[6]).text());
     const game = {
       startDate: moment(`${date} ${startTime}`, 'MM/DD/YYYY HH:mmA').utcOffset('-06:00'),
