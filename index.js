@@ -6,7 +6,12 @@ const moment = require('moment');
 const cTable = require('console.table');
 
 const scoresPage = {
-  uri: 'https://leagues.bluesombrero.com/Default.aspx?tabid=689478&ProgramId=80037731&DivisionId=80255584',
+  uri: 'https://leagues.bluesombrero.com/Default.aspx',
+  qs: {
+    tabid: 689478,
+    ProgramId: 80037731,
+    DivisionId: 80255584
+  },
   callback: parseScoresTable
 }
 
