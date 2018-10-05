@@ -20,9 +20,6 @@ const c = new Crawler({
   callback: (err, res, done) => {
     if (err) {
       console.log(err)
-    } else {
-      let $ = res.$;
-      console.log($('title').text());
     }
     done();
   }
@@ -173,13 +170,6 @@ function getAllGamesForTeam({name}) {
 
 function getOpponentTeamName(game, team) {
   return game.awayTeam === team.name ? game.homeTeam : game.awayTeam
-}
-
-function getAllScores(data) {
-  data.forEach(game => {
-    const {awayScore, homeScore} = parseScore(game.score);
-    console.log(`${game.awayTeam}: ${awayScore} - ${game.homeTeam}: ${homeScore}`);
-  });
 }
 
 function writeToFile(body) {
