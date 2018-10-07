@@ -28,6 +28,7 @@ const c = new Crawler({
 const db = new Loki('./data/default.db');
 const games = db.addCollection('games', { indices: ['awayTeam', 'homeTeam'] });
 const teams = db.addCollection('teams', { indices: ['name'] });
+const winPercentages = db.addCollection('winPercentages', { indices: 'teamId' });
 
 c.queue(scoresPage);
 
@@ -38,19 +39,28 @@ function parseScoresTable(err, res, done) {
     getAllGames(res);
     getAllTeams(games.data);
 
-    let results = [];
+    let results = [], wps = [];
     teams.data.forEach(team => {
       const teamGames = getAllGamesForTeam(team);
       const {totalWins, totalLosses} = getTeamWinLosses(teamGames, team);
+      const winPercentage = (totalWins / (totalWins + totalLosses)).toFixed(3);
+
       results.push({
         name: team.name,
         totalWins,
         totalLosses,
-        winPercentage: (totalWins / (totalWins + totalLosses)).toFixed(3),
-        rpi: calculateRPI(teamGames, team),       
-      })
+        winPercentage,
+        rpi: calculateRPI(teamGames, team), 
+      });
+
+      wps.push({
+        teamId: team.$loki,
+        winPercentage
+      });
     });
+    winPercentages.insert(wps);
     results.sort((a,b) => (a.rpi < b.rpi) ? 1 : ((b.rpi < a.rpi) ? -1 : 0));
+    
 
     console.table(results);
   }
