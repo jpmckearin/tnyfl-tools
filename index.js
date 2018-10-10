@@ -3,7 +3,7 @@ const fs = require('fs');
 const Crawler = require('crawler');
 const Loki = require('lokijs');
 const moment = require('moment');
-const cTable = require('console.table');
+require('console.table');
 
 const scoresPage = {
   uri: 'https://leagues.bluesombrero.com/Default.aspx',
@@ -26,9 +26,12 @@ const c = new Crawler({
 });
 
 const db = new Loki('./data/default.db');
+const log = db.addCollection('log');
 const games = db.addCollection('games', { indices: ['awayTeam', 'homeTeam'] });
 const teams = db.addCollection('teams', { indices: ['name'] });
 const winPercentages = db.addCollection('winPercentages', { indices: 'teamId' });
+const winLosses = db.addCollection('winLosses', { indices: 'teamId '});
+const rpis = db.addCollection('rpis', { indices: 'teamId' });
 
 c.queue(scoresPage);
 
@@ -36,35 +39,54 @@ function parseScoresTable(err, res, done) {
   if (err) {
     console.log(err)
   } else {
-    getAllGames(res);
+    getAllGamesFromWebsite(res);
     getAllTeams(games.data);
 
-    let results = [], wps = [];
+    let wps = [], wls = [];
     teams.data.forEach(team => {
+      const teamId = team.$loki;
       const teamGames = getAllGamesForTeam(team);
-      const {totalWins, totalLosses} = getTeamWinLosses(teamGames, team);
+      const {totalWins, totalLosses, totalTies} = getTeamWinLosses(teamGames, team);
       const winPercentage = (totalWins / (totalWins + totalLosses)).toFixed(3);
 
-      results.push({
-        name: team.name,
-        totalWins,
-        totalLosses,
-        winPercentage,
-        rpi: calculateRPI(teamGames, team), 
-      });
-
       wps.push({
-        teamId: team.$loki,
+        teamId,
         winPercentage
       });
-    });
-    winPercentages.insert(wps);
-    results.sort((a,b) => (a.rpi < b.rpi) ? 1 : ((b.rpi < a.rpi) ? -1 : 0));
-    
 
-    console.table(results);
+      wls.push({
+        teamId,
+        totalWins,
+        totalLosses,
+        totalTies
+      });
+    });
+    
+    winPercentages.insert(wps);
+    winLosses.insert(wls);
   }
   done();
+}
+
+function displayResults() {
+  let results = [];
+  teams.data.forEach(team => {
+    const teamId = team.$loki;
+    const {}
+
+    results.push({
+      name: team.name,
+      totalWins,
+      totalLosses,
+      totalTies,
+      winPercentage,
+      rpi: calculateRPI(teamGames, team), 
+    });
+  });
+
+  results.sort((a,b) => (a.rpi < b.rpi) ? 1 : ((b.rpi < a.rpi) ? -1 : 0));
+    
+  console.table(results);
 }
 
 function parseScore(score) {
@@ -77,7 +99,7 @@ function parseTime(time) {
   return {startTime, endTime};
 }
 
-function getAllGames(res) {
+function getAllGamesFromWebsite(res) {
   const $ = res.$;
   $('.rgMasterTable tbody tr').each((i, row) => {
     const children = $(row).children('td');
@@ -117,18 +139,20 @@ function calculateRPI(teamGames, team) {
 }
 
 function getTeamWinLosses(teamGames, team) {
-  let totalWins = 0, totalLosses = 0;
+  let totalWins = 0, totalLosses = 0, totalTies = 0;
   teamGames.forEach(game => {
     if (game.awayTeam === team.name && game.awayScore > game.homeScore) {
       totalWins++;
     } else if (game.homeTeam === team.name && game.homeScore > game.awayScore) {
       totalWins++;
+    } else if ((game.homeTeam === team.name || game.awayTeam === team.name) && game.homeScore === game.awayScore) {
+      totalTies++;
     } else {
       totalLosses++;
     }
   });
 
-  return {totalWins, totalLosses};
+  return {totalWins, totalLosses, totalTies};
 }
 
 function getTeamWP(teamGames, team, teamToIgnore) {
@@ -193,8 +217,4 @@ function writeToFile(body) {
       return console.log(err);
     }
   })
-};
-
-function log(data) {
-  return console.log(JSON.stringify(data, null, 2));
 };
