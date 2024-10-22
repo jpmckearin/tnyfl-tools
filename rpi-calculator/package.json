@@ -1,0 +1,22 @@
+{
+  "name": "rpi-calculator",
+  "module": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "bun src/index.ts"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@types/bun": "latest",
+    "@types/lokijs": "^1.5.14",
+    "jsonfile": "^6.1.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/jsonfile": "^6.1.4",
+    "moment": "^2.30.1",
+    "playwright": "^1.48.1"
+  }
+}

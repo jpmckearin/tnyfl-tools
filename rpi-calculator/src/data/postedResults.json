@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Franklin 10u D2",
+    "wins": 7,
+    "losses": 0,
+    "rpi": 0.711,
+    "tieBreaker": 32
+  },
+  {
+    "name": "Green Hill 10u D2 - White",
+    "wins": 6,
+    "losses": 1,
+    "rpi": 0.6412,
+    "tieBreaker": 17
+  },
+  {
+    "name": "Bordeaux 10u D2",
+    "wins": 6,
+    "losses": 1,
+    "rpi": 0.6079,
+    "tieBreaker": 2
+  },
+  {
+    "name": "Riverdale 10u D2",
+    "wins": 5,
+    "losses": 2,
+    "rpi": 0.5962,
+    "tieBreaker": 7
+  },
+  {
+    "name": "Spring Hill 10u D2 - White",
+    "wins": 5,
+    "losses": 2,
+    "rpi": 0.5653,
+    "tieBreaker": 19
+  },
+  {
+    "name": "Spring Hill 10u D2 - Gray",
+    "wins": 3,
+    "losses": 4,
+    "rpi": 0.5116,
+    "tieBreaker": 13
+  },
+  {
+    "name": "Stewarts Creek 10u D2 - Black",
+    "wins": 3,
+    "losses": 3,
+    "rpi": 0.4858,
+    "tieBreaker": 9
+  },
+  {
+    "name": "Spring Hill 10u D2 - Blue",
+    "wins": 2,
+    "losses": 5,
+    "rpi": 0.4519,
+    "tieBreaker": 14
+  },
+  {
+    "name": "Blackman 10u D2",
+    "wins": 3,
+    "losses": 5,
+    "rpi": 0.4498,
+    "tieBreaker": 20
+  },
+  {
+    "name": "Stewarts Creek 10u D2 - Red",
+    "wins": 2,
+    "losses": 5,
+    "rpi": 0.4264,
+    "tieBreaker": 20
+  },
+  {
+    "name": "Waverly 10u D2",
+    "wins": 2,
+    "losses": 5,
+    "rpi": 0.4017,
+    "tieBreaker": 13
+  },
+  {
+    "name": "Green Hill 10u D2 - Green",
+    "wins": 1,
+    "losses": 6,
+    "rpi": 0.3506,
+    "tieBreaker": 7
+  },
+  {
+    "name": "Percy Priest 10u D2",
+    "wins": 0,
+    "losses": 7,
+    "rpi": 0.3009,
+    "tieBreaker": 0
+  }
+]
