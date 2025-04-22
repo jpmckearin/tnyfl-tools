@@ -1,0 +1,1308 @@
+{
+  "club_image_url": "https://playmetrics-prod-ugc-2.imgix.net/c419/club/1659824115/cbf53d7240d1f559330d8e1b7d46acac.png?expires=1745582400&fm=png&h=64&w=64&s=a828be396a338b44144fbe0240fd59ab",
+  "id": 19692,
+  "league": {
+    "id": 5928,
+    "name": "2025 Spring Flag Football",
+    "type": "house"
+  },
+  "name": "10U Flag",
+  "schedule": [
+    {
+      "away_team_id": 306601,
+      "away_team_score": 6,
+      "date": "Sunday, March 23, 2025",
+      "date_short": "Mar 23, 2025",
+      "date_short_no_year": "Mar 23",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 306599,
+      "home_team_score": 18,
+      "id": 2707064,
+      "show_score": true,
+      "start_datetime": "2025-03-23T18:00:00Z",
+      "status": "Played",
+      "time": "1:00 PM"
+    },
+    {
+      "away_team_id": 301921,
+      "away_team_score": 6,
+      "date": "Sunday, March 23, 2025",
+      "date_short": "Mar 23, 2025",
+      "date_short_no_year": "Mar 23",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301918,
+      "home_team_score": 8,
+      "id": 2707047,
+      "show_score": true,
+      "start_datetime": "2025-03-23T19:00:00Z",
+      "status": "Played",
+      "time": "2:00 PM"
+    },
+    {
+      "away_team_id": 301920,
+      "away_team_score": 7,
+      "date": "Sunday, March 23, 2025",
+      "date_short": "Mar 23, 2025",
+      "date_short_no_year": "Mar 23",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 2",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301974,
+      "home_team_score": 26,
+      "id": 2707048,
+      "show_score": true,
+      "start_datetime": "2025-03-23T19:00:00Z",
+      "status": "Played",
+      "time": "2:00 PM"
+    },
+    {
+      "away_team_id": 301923,
+      "away_team_score": 14,
+      "date": "Sunday, March 23, 2025",
+      "date_short": "Mar 23, 2025",
+      "date_short_no_year": "Mar 23",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 1",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 302069,
+      "home_team_score": 21,
+      "id": 2707050,
+      "show_score": true,
+      "start_datetime": "2025-03-23T19:00:00Z",
+      "status": "Played",
+      "time": "2:00 PM"
+    },
+    {
+      "away_team_id": 307757,
+      "away_team_score": 6,
+      "date": "Sunday, March 23, 2025",
+      "date_short": "Mar 23, 2025",
+      "date_short_no_year": "Mar 23",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 2",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301922,
+      "home_team_score": 33,
+      "id": 2707049,
+      "show_score": true,
+      "start_datetime": "2025-03-23T20:00:00Z",
+      "status": "Played",
+      "time": "3:00 PM"
+    },
+    {
+      "away_team_id": 301924,
+      "away_team_score": 28,
+      "date": "Sunday, March 23, 2025",
+      "date_short": "Mar 23, 2025",
+      "date_short_no_year": "Mar 23",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 302462,
+      "home_team_score": 6,
+      "id": 2707051,
+      "show_score": true,
+      "start_datetime": "2025-03-23T20:00:00Z",
+      "status": "Played",
+      "time": "3:00 PM"
+    },
+    {
+      "away_team_id": 306600,
+      "away_team_score": 0,
+      "date": "Sunday, March 23, 2025",
+      "date_short": "Mar 23, 2025",
+      "date_short_no_year": "Mar 23",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 1",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301975,
+      "home_team_score": 33,
+      "id": 2707057,
+      "show_score": true,
+      "start_datetime": "2025-03-23T20:00:00Z",
+      "status": "Played",
+      "time": "3:00 PM"
+    },
+    {
+      "away_team_id": 302462,
+      "away_team_score": 0,
+      "date": "Sunday, March 30, 2025",
+      "date_short": "Mar 30, 2025",
+      "date_short_no_year": "Mar 30",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301921,
+      "home_team_score": 21,
+      "id": 2707070,
+      "show_score": true,
+      "start_datetime": "2025-03-30T16:00:00Z",
+      "status": "Played",
+      "time": "11:00 AM"
+    },
+    {
+      "away_team_id": 301922,
+      "away_team_score": 7,
+      "date": "Sunday, March 30, 2025",
+      "date_short": "Mar 30, 2025",
+      "date_short_no_year": "Mar 30",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 1",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301923,
+      "home_team_score": 0,
+      "id": 2707071,
+      "show_score": true,
+      "start_datetime": "2025-03-30T16:00:00Z",
+      "status": "Played",
+      "time": "11:00 AM"
+    },
+    {
+      "away_team_id": 306599,
+      "away_team_score": 46,
+      "date": "Sunday, March 30, 2025",
+      "date_short": "Mar 30, 2025",
+      "date_short_no_year": "Mar 30",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 2",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 306600,
+      "home_team_score": 6,
+      "id": 2707087,
+      "show_score": true,
+      "start_datetime": "2025-03-30T16:00:00Z",
+      "status": "Played",
+      "time": "11:00 AM"
+    },
+    {
+      "away_team_id": 306601,
+      "away_team_score": 7,
+      "date": "Sunday, March 30, 2025",
+      "date_short": "Mar 30, 2025",
+      "date_short_no_year": "Mar 30",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301924,
+      "home_team_score": 24,
+      "id": 2707072,
+      "show_score": true,
+      "start_datetime": "2025-03-30T18:00:00Z",
+      "status": "Played",
+      "time": "1:00 PM"
+    },
+    {
+      "away_team_id": 301918,
+      "away_team_score": 25,
+      "date": "Sunday, March 30, 2025",
+      "date_short": "Mar 30, 2025",
+      "date_short_no_year": "Mar 30",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 2",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 307757,
+      "home_team_score": 6,
+      "id": 2707068,
+      "show_score": true,
+      "start_datetime": "2025-03-30T20:00:00Z",
+      "status": "Played",
+      "time": "3:00 PM"
+    },
+    {
+      "away_team_id": 302069,
+      "away_team_score": 40,
+      "date": "Sunday, March 30, 2025",
+      "date_short": "Mar 30, 2025",
+      "date_short_no_year": "Mar 30",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 1",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301920,
+      "home_team_score": 7,
+      "id": 2707069,
+      "show_score": true,
+      "start_datetime": "2025-03-30T20:00:00Z",
+      "status": "Played",
+      "time": "3:00 PM"
+    },
+    {
+      "away_team_id": 301975,
+      "away_team_score": 25,
+      "date": "Sunday, March 30, 2025",
+      "date_short": "Mar 30, 2025",
+      "date_short_no_year": "Mar 30",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301974,
+      "home_team_score": 18,
+      "id": 2707078,
+      "show_score": true,
+      "start_datetime": "2025-03-30T20:00:00Z",
+      "status": "Played",
+      "time": "3:00 PM"
+    },
+    {
+      "away_team_id": 301920,
+      "away_team_score": 0,
+      "date": "Sunday, April  6, 2025",
+      "date_short": "Apr  6, 2025",
+      "date_short_no_year": "Apr  6",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301975,
+      "home_team_score": 0,
+      "id": 2707088,
+      "show_score": false,
+      "start_datetime": "2025-04-06T19:00:00Z",
+      "status": "Scheduled",
+      "time": "2:00 PM"
+    },
+    {
+      "away_team_id": 301924,
+      "away_team_score": 0,
+      "date": "Sunday, April  6, 2025",
+      "date_short": "Apr  6, 2025",
+      "date_short_no_year": "Apr  6",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 1",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 306600,
+      "home_team_score": 0,
+      "id": 2707089,
+      "show_score": false,
+      "start_datetime": "2025-04-06T20:00:00Z",
+      "status": "Scheduled",
+      "time": "3:00 PM"
+    },
+    {
+      "away_team_id": 301974,
+      "away_team_score": 0,
+      "date": "Sunday, April  6, 2025",
+      "date_short": "Apr  6, 2025",
+      "date_short_no_year": "Apr  6",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 2",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 306599,
+      "home_team_score": 0,
+      "id": 2707090,
+      "show_score": false,
+      "start_datetime": "2025-04-06T20:00:00Z",
+      "status": "Scheduled",
+      "time": "3:00 PM"
+    },
+    {
+      "away_team_id": 301918,
+      "away_team_score": 0,
+      "date": "Sunday, April 13, 2025",
+      "date_short": "Apr 13, 2025",
+      "date_short_no_year": "Apr 13",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 302069,
+      "home_team_score": 15,
+      "id": 2707098,
+      "show_score": true,
+      "start_datetime": "2025-04-13T18:00:00Z",
+      "status": "Played",
+      "time": "1:00 PM"
+    },
+    {
+      "away_team_id": 306601,
+      "away_team_score": 27,
+      "date": "Sunday, April 13, 2025",
+      "date_short": "Apr 13, 2025",
+      "date_short_no_year": "Apr 13",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 2",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 307757,
+      "home_team_score": 6,
+      "id": 2707115,
+      "show_score": true,
+      "start_datetime": "2025-04-13T18:00:00Z",
+      "status": "Played",
+      "time": "1:00 PM"
+    },
+    {
+      "away_team_id": 301922,
+      "away_team_score": 20,
+      "date": "Sunday, April 13, 2025",
+      "date_short": "Apr 13, 2025",
+      "date_short_no_year": "Apr 13",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 1",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301920,
+      "home_team_score": 13,
+      "id": 2707099,
+      "show_score": true,
+      "start_datetime": "2025-04-13T19:00:00Z",
+      "status": "Played",
+      "time": "2:00 PM"
+    },
+    {
+      "away_team_id": 301974,
+      "away_team_score": 26,
+      "date": "Sunday, April 13, 2025",
+      "date_short": "Apr 13, 2025",
+      "date_short_no_year": "Apr 13",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301924,
+      "home_team_score": 18,
+      "id": 2707102,
+      "show_score": true,
+      "start_datetime": "2025-04-13T19:00:00Z",
+      "status": "Played",
+      "time": "2:00 PM"
+    },
+    {
+      "away_team_id": 306599,
+      "away_team_score": 20,
+      "date": "Sunday, April 13, 2025",
+      "date_short": "Apr 13, 2025",
+      "date_short_no_year": "Apr 13",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 2",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301975,
+      "home_team_score": 7,
+      "id": 2707107,
+      "show_score": true,
+      "start_datetime": "2025-04-13T19:00:00Z",
+      "status": "Played",
+      "time": "2:00 PM"
+    },
+    {
+      "away_team_id": 306600,
+      "away_team_score": 0,
+      "date": "Sunday, April 13, 2025",
+      "date_short": "Apr 13, 2025",
+      "date_short_no_year": "Apr 13",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 2",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301921,
+      "home_team_score": 26,
+      "id": 2707100,
+      "show_score": true,
+      "start_datetime": "2025-04-13T20:00:00Z",
+      "status": "Played",
+      "time": "3:00 PM"
+    },
+    {
+      "away_team_id": 302462,
+      "away_team_score": 19,
+      "date": "Sunday, April 13, 2025",
+      "date_short": "Apr 13, 2025",
+      "date_short_no_year": "Apr 13",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 1",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301923,
+      "home_team_score": 20,
+      "id": 2707101,
+      "show_score": true,
+      "start_datetime": "2025-04-13T20:00:00Z",
+      "status": "Played",
+      "time": "3:00 PM"
+    },
+    {
+      "away_team_id": 302069,
+      "away_team_score": 14,
+      "date": "Wednesday, April 16, 2025",
+      "date_short": "Apr 16, 2025",
+      "date_short_no_year": "Apr 16",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301922,
+      "home_team_score": 27,
+      "id": 2707119,
+      "show_score": true,
+      "start_datetime": "2025-04-17T00:30:00Z",
+      "status": "Played",
+      "time": "7:30 PM"
+    },
+    {
+      "away_team_id": 301923,
+      "away_team_score": 0,
+      "date": "Wednesday, April 23, 2025",
+      "date_short": "Apr 23, 2025",
+      "date_short_no_year": "Apr 23",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 1",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301918,
+      "home_team_score": 0,
+      "id": 2707126,
+      "show_score": false,
+      "start_datetime": "2025-04-23T23:30:00Z",
+      "status": "Scheduled",
+      "time": "6:30 PM"
+    },
+    {
+      "away_team_id": 301921,
+      "away_team_score": 0,
+      "date": "Wednesday, April 23, 2025",
+      "date_short": "Apr 23, 2025",
+      "date_short_no_year": "Apr 23",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 306601,
+      "home_team_score": 0,
+      "id": 2707127,
+      "show_score": false,
+      "start_datetime": "2025-04-23T23:30:00Z",
+      "status": "Scheduled",
+      "time": "6:30 PM"
+    },
+    {
+      "away_team_id": 307757,
+      "away_team_score": 0,
+      "date": "Wednesday, April 23, 2025",
+      "date_short": "Apr 23, 2025",
+      "date_short_no_year": "Apr 23",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 2",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 302462,
+      "home_team_score": 0,
+      "id": 2707133,
+      "show_score": false,
+      "start_datetime": "2025-04-23T23:30:00Z",
+      "status": "Scheduled",
+      "time": "6:30 PM"
+    },
+    {
+      "away_team_id": 301975,
+      "away_team_score": 0,
+      "date": "Sunday, April 27, 2025",
+      "date_short": "Apr 27, 2025",
+      "date_short_no_year": "Apr 27",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 306601,
+      "home_team_score": 0,
+      "id": 2707148,
+      "show_score": false,
+      "start_datetime": "2025-04-27T18:00:00Z",
+      "status": "Scheduled",
+      "time": "1:00 PM"
+    },
+    {
+      "away_team_id": 301918,
+      "away_team_score": 0,
+      "date": "Sunday, April 27, 2025",
+      "date_short": "Apr 27, 2025",
+      "date_short_no_year": "Apr 27",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301924,
+      "home_team_score": 0,
+      "id": 2707139,
+      "show_score": false,
+      "start_datetime": "2025-04-27T19:00:00Z",
+      "status": "Scheduled",
+      "time": "2:00 PM"
+    },
+    {
+      "away_team_id": 301923,
+      "away_team_score": 0,
+      "date": "Sunday, April 27, 2025",
+      "date_short": "Apr 27, 2025",
+      "date_short_no_year": "Apr 27",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301920,
+      "home_team_score": 0,
+      "id": 2707140,
+      "show_score": false,
+      "start_datetime": "2025-04-27T19:00:00Z",
+      "status": "Scheduled",
+      "time": "2:00 PM"
+    },
+    {
+      "away_team_id": 301974,
+      "away_team_score": 0,
+      "date": "Sunday, April 27, 2025",
+      "date_short": "Apr 27, 2025",
+      "date_short_no_year": "Apr 27",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 1",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 306600,
+      "home_team_score": 0,
+      "id": 2707147,
+      "show_score": false,
+      "start_datetime": "2025-04-27T19:00:00Z",
+      "status": "Scheduled",
+      "time": "2:00 PM"
+    },
+    {
+      "away_team_id": 301922,
+      "away_team_score": 0,
+      "date": "Sunday, April 27, 2025",
+      "date_short": "Apr 27, 2025",
+      "date_short_no_year": "Apr 27",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 2",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301921,
+      "home_team_score": 0,
+      "id": 2707141,
+      "show_score": false,
+      "start_datetime": "2025-04-27T20:00:00Z",
+      "status": "Scheduled",
+      "time": "3:00 PM"
+    },
+    {
+      "away_team_id": 302069,
+      "away_team_score": 0,
+      "date": "Sunday, April 27, 2025",
+      "date_short": "Apr 27, 2025",
+      "date_short_no_year": "Apr 27",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 1",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 307757,
+      "home_team_score": 0,
+      "id": 2707155,
+      "show_score": false,
+      "start_datetime": "2025-04-27T20:00:00Z",
+      "status": "Scheduled",
+      "time": "3:00 PM"
+    },
+    {
+      "away_team_id": 306599,
+      "away_team_score": 0,
+      "date": "Sunday, April 27, 2025",
+      "date_short": "Apr 27, 2025",
+      "date_short_no_year": "Apr 27",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 302462,
+      "home_team_score": 0,
+      "id": 2707156,
+      "show_score": false,
+      "start_datetime": "2025-04-27T20:00:00Z",
+      "status": "Scheduled",
+      "time": "3:00 PM"
+    },
+    {
+      "away_team_id": 301923,
+      "away_team_score": 0,
+      "date": "Sunday, May  4, 2025",
+      "date_short": "May  4, 2025",
+      "date_short_no_year": "May  4",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 1",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 306601,
+      "home_team_score": 0,
+      "id": 2707165,
+      "show_score": false,
+      "start_datetime": "2025-05-04T16:00:00Z",
+      "status": "Scheduled",
+      "time": "11:00 AM"
+    },
+    {
+      "away_team_id": 301924,
+      "away_team_score": 0,
+      "date": "Sunday, May  4, 2025",
+      "date_short": "May  4, 2025",
+      "date_short_no_year": "May  4",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301975,
+      "home_team_score": 0,
+      "id": 2707166,
+      "show_score": false,
+      "start_datetime": "2025-05-04T16:00:00Z",
+      "status": "Scheduled",
+      "time": "11:00 AM"
+    },
+    {
+      "away_team_id": 302069,
+      "away_team_score": 0,
+      "date": "Sunday, May  4, 2025",
+      "date_short": "May  4, 2025",
+      "date_short_no_year": "May  4",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 2",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 302462,
+      "home_team_score": 0,
+      "id": 2707178,
+      "show_score": false,
+      "start_datetime": "2025-05-04T16:00:00Z",
+      "status": "Scheduled",
+      "time": "11:00 AM"
+    },
+    {
+      "away_team_id": 301922,
+      "away_team_score": 0,
+      "date": "Sunday, May  4, 2025",
+      "date_short": "May  4, 2025",
+      "date_short_no_year": "May  4",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 2",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301918,
+      "home_team_score": 0,
+      "id": 2707162,
+      "show_score": false,
+      "start_datetime": "2025-05-04T19:00:00Z",
+      "status": "Scheduled",
+      "time": "2:00 PM"
+    },
+    {
+      "away_team_id": 307757,
+      "away_team_score": 0,
+      "date": "Sunday, May  4, 2025",
+      "date_short": "May  4, 2025",
+      "date_short_no_year": "May  4",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 306600,
+      "home_team_score": 0,
+      "id": 2707180,
+      "show_score": false,
+      "start_datetime": "2025-05-04T19:00:00Z",
+      "status": "Scheduled",
+      "time": "2:00 PM"
+    },
+    {
+      "away_team_id": 301920,
+      "away_team_score": 0,
+      "date": "Sunday, May  4, 2025",
+      "date_short": "May  4, 2025",
+      "date_short_no_year": "May  4",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 1",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 306599,
+      "home_team_score": 0,
+      "id": 2707163,
+      "show_score": false,
+      "start_datetime": "2025-05-04T20:00:00Z",
+      "status": "Scheduled",
+      "time": "3:00 PM"
+    },
+    {
+      "away_team_id": 301921,
+      "away_team_score": 0,
+      "date": "Sunday, May  4, 2025",
+      "date_short": "May  4, 2025",
+      "date_short_no_year": "May  4",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 2",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301974,
+      "home_team_score": 0,
+      "id": 2707164,
+      "show_score": false,
+      "start_datetime": "2025-05-04T20:00:00Z",
+      "status": "Scheduled",
+      "time": "3:00 PM"
+    },
+    {
+      "away_team_id": 306601,
+      "away_team_score": 0,
+      "date": "Sunday, May 18, 2025",
+      "date_short": "May 18, 2025",
+      "date_short_no_year": "May 18",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 302069,
+      "home_team_score": 0,
+      "id": 2707203,
+      "show_score": false,
+      "start_datetime": "2025-05-18T18:00:00Z",
+      "status": "Scheduled",
+      "time": "1:00 PM"
+    },
+    {
+      "away_team_id": 301918,
+      "away_team_score": 0,
+      "date": "Sunday, May 18, 2025",
+      "date_short": "May 18, 2025",
+      "date_short_no_year": "May 18",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 1",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301920,
+      "home_team_score": 0,
+      "id": 2707185,
+      "show_score": false,
+      "start_datetime": "2025-05-18T19:00:00Z",
+      "status": "Scheduled",
+      "time": "2:00 PM"
+    },
+    {
+      "away_team_id": 302462,
+      "away_team_score": 0,
+      "date": "Sunday, May 18, 2025",
+      "date_short": "May 18, 2025",
+      "date_short_no_year": "May 18",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301922,
+      "home_team_score": 0,
+      "id": 2707187,
+      "show_score": false,
+      "start_datetime": "2025-05-18T19:00:00Z",
+      "status": "Scheduled",
+      "time": "2:00 PM"
+    },
+    {
+      "away_team_id": 306600,
+      "away_team_score": 0,
+      "date": "Sunday, May 18, 2025",
+      "date_short": "May 18, 2025",
+      "date_short_no_year": "May 18",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 2",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301923,
+      "home_team_score": 0,
+      "id": 2707188,
+      "show_score": false,
+      "start_datetime": "2025-05-18T19:00:00Z",
+      "status": "Scheduled",
+      "time": "2:00 PM"
+    },
+    {
+      "away_team_id": 301975,
+      "away_team_score": 0,
+      "date": "Sunday, May 18, 2025",
+      "date_short": "May 18, 2025",
+      "date_short_no_year": "May 18",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 1",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301921,
+      "home_team_score": 0,
+      "id": 2707186,
+      "show_score": false,
+      "start_datetime": "2025-05-18T20:00:00Z",
+      "status": "Scheduled",
+      "time": "3:00 PM"
+    },
+    {
+      "away_team_id": 306599,
+      "away_team_score": 0,
+      "date": "Sunday, May 18, 2025",
+      "date_short": "May 18, 2025",
+      "date_short_no_year": "May 18",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 3",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 301924,
+      "home_team_score": 0,
+      "id": 2707189,
+      "show_score": false,
+      "start_datetime": "2025-05-18T20:00:00Z",
+      "status": "Scheduled",
+      "time": "3:00 PM"
+    },
+    {
+      "away_team_id": 301974,
+      "away_team_score": 0,
+      "date": "Sunday, May 18, 2025",
+      "date_short": "May 18, 2025",
+      "date_short_no_year": "May 18",
+      "field": {
+        "address": "4285 Port Royal Rd, Spring Hill, TN 37174, USA",
+        "name": "Fischer Park 2",
+        "url": "https://www.google.com/maps/search/?api=1&query=4285+Port+Royal+Rd%2C+Spring+Hill%2C+TN+37174%2C+USA"
+      },
+      "home_team_id": 307757,
+      "home_team_score": 0,
+      "id": 2707195,
+      "show_score": false,
+      "start_datetime": "2025-05-18T20:00:00Z",
+      "status": "Scheduled",
+      "time": "3:00 PM"
+    }
+  ],
+  "standings": {
+    "enabled": true,
+    "legend_items": [
+      [
+        "GP",
+        "Games Played"
+      ],
+      [
+        "W",
+        "Wins"
+      ],
+      [
+        "L",
+        "Losses"
+      ],
+      [
+        "T",
+        "Ties"
+      ],
+      [
+        "GF",
+        "Goals For"
+      ],
+      [
+        "GA",
+        "Goals Against"
+      ],
+      [
+        "GD",
+        "Goals Differential (Capped at 18 goals per game)"
+      ]
+    ],
+    "rules": {
+      "tie_breakers": [
+        "Head to Head",
+        "Goal Differential (Capped at 18 goals per game)"
+      ]
+    },
+    "teams": [
+      {
+        "GA": 33,
+        "GD": 45,
+        "GF": 87,
+        "GP": 4,
+        "L": 0,
+        "T": 0,
+        "W": 4,
+        "id": 301922,
+        "rank": 1
+      },
+      {
+        "GA": 19,
+        "GD": 43,
+        "GF": 84,
+        "GP": 3,
+        "L": 0,
+        "T": 0,
+        "W": 3,
+        "id": 306599,
+        "rank": 2
+      },
+      {
+        "GA": 48,
+        "GD": 27,
+        "GF": 90,
+        "GP": 4,
+        "L": 1,
+        "T": 0,
+        "W": 3,
+        "id": 302069,
+        "rank": 3
+      },
+      {
+        "GA": 38,
+        "GD": 12,
+        "GF": 65,
+        "GP": 3,
+        "L": 1,
+        "T": 0,
+        "W": 2,
+        "id": 301975,
+        "rank": 4
+      },
+      {
+        "GA": 27,
+        "GD": 5,
+        "GF": 33,
+        "GP": 3,
+        "L": 1,
+        "T": 0,
+        "W": 2,
+        "id": 301918,
+        "rank": 5
+      },
+      {
+        "GA": 50,
+        "GD": 19,
+        "GF": 70,
+        "GP": 3,
+        "L": 1,
+        "T": 0,
+        "W": 2,
+        "id": 301974,
+        "rank": 6
+      },
+      {
+        "GA": 8,
+        "GD": 34,
+        "GF": 53,
+        "GP": 3,
+        "L": 1,
+        "T": 0,
+        "W": 2,
+        "id": 301921,
+        "rank": 7
+      },
+      {
+        "GA": 39,
+        "GD": 27,
+        "GF": 70,
+        "GP": 3,
+        "L": 1,
+        "T": 0,
+        "W": 2,
+        "id": 301924,
+        "rank": 8
+      },
+      {
+        "GA": 48,
+        "GD": -11,
+        "GF": 40,
+        "GP": 3,
+        "L": 2,
+        "T": 0,
+        "W": 1,
+        "id": 306601,
+        "rank": 9
+      },
+      {
+        "GA": 47,
+        "GD": -13,
+        "GF": 34,
+        "GP": 3,
+        "L": 2,
+        "T": 0,
+        "W": 1,
+        "id": 301923,
+        "rank": 10
+      },
+      {
+        "GA": 69,
+        "GD": -37,
+        "GF": 25,
+        "GP": 3,
+        "L": 3,
+        "T": 0,
+        "W": 0,
+        "id": 302462,
+        "rank": 11
+      },
+      {
+        "GA": 86,
+        "GD": -43,
+        "GF": 27,
+        "GP": 3,
+        "L": 3,
+        "T": 0,
+        "W": 0,
+        "id": 301920,
+        "rank": 12
+      },
+      {
+        "GA": 85,
+        "GD": -54,
+        "GF": 18,
+        "GP": 3,
+        "L": 3,
+        "T": 0,
+        "W": 0,
+        "id": 307757,
+        "rank": 13
+      },
+      {
+        "GA": 105,
+        "GD": -54,
+        "GF": 6,
+        "GP": 3,
+        "L": 3,
+        "T": 0,
+        "W": 0,
+        "id": 306600,
+        "rank": 13
+      }
+    ]
+  },
+  "teams": [
+    {
+      "club": {
+        "id": 419,
+        "image_url": "https://playmetrics-prod-ugc-2.imgix.net/c419/club/1659824115/cbf53d7240d1f559330d8e1b7d46acac.png?auto=format&expires=1745582400&h=64&w=64&s=5f5babc97b1186e9cfc990407f93f3e5",
+        "name": "Spring Hill Hawks"
+      },
+      "id": 301918,
+      "team": {
+        "id": 301918,
+        "name": "10U - Albano - Yellow"
+      }
+    },
+    {
+      "club": {
+        "id": 419,
+        "image_url": "https://playmetrics-prod-ugc-2.imgix.net/c419/club/1659824115/cbf53d7240d1f559330d8e1b7d46acac.png?auto=format&expires=1745582400&h=64&w=64&s=5f5babc97b1186e9cfc990407f93f3e5",
+        "name": "Spring Hill Hawks"
+      },
+      "id": 301920,
+      "team": {
+        "id": 301920,
+        "name": "10U - Mamo - Green"
+      }
+    },
+    {
+      "club": {
+        "id": 419,
+        "image_url": "https://playmetrics-prod-ugc-2.imgix.net/c419/club/1659824115/cbf53d7240d1f559330d8e1b7d46acac.png?auto=format&expires=1745582400&h=64&w=64&s=5f5babc97b1186e9cfc990407f93f3e5",
+        "name": "Spring Hill Hawks"
+      },
+      "id": 301921,
+      "team": {
+        "id": 301921,
+        "name": "10U - Giles - Blue"
+      }
+    },
+    {
+      "club": {
+        "id": 419,
+        "image_url": "https://playmetrics-prod-ugc-2.imgix.net/c419/club/1659824115/cbf53d7240d1f559330d8e1b7d46acac.png?auto=format&expires=1745582400&h=64&w=64&s=5f5babc97b1186e9cfc990407f93f3e5",
+        "name": "Spring Hill Hawks"
+      },
+      "id": 301922,
+      "team": {
+        "id": 301922,
+        "name": "10U - Hardin - Purple"
+      }
+    },
+    {
+      "club": {
+        "id": 419,
+        "image_url": "https://playmetrics-prod-ugc-2.imgix.net/c419/club/1659824115/cbf53d7240d1f559330d8e1b7d46acac.png?auto=format&expires=1745582400&h=64&w=64&s=5f5babc97b1186e9cfc990407f93f3e5",
+        "name": "Spring Hill Hawks"
+      },
+      "id": 301923,
+      "team": {
+        "id": 301923,
+        "name": "10U - McKearin - Graphite"
+      }
+    },
+    {
+      "club": {
+        "id": 419,
+        "image_url": "https://playmetrics-prod-ugc-2.imgix.net/c419/club/1659824115/cbf53d7240d1f559330d8e1b7d46acac.png?auto=format&expires=1745582400&h=64&w=64&s=5f5babc97b1186e9cfc990407f93f3e5",
+        "name": "Spring Hill Hawks"
+      },
+      "id": 301924,
+      "team": {
+        "id": 301924,
+        "name": "10U - Basham - Light Blue"
+      }
+    },
+    {
+      "club": {
+        "id": 419,
+        "image_url": "https://playmetrics-prod-ugc-2.imgix.net/c419/club/1659824115/cbf53d7240d1f559330d8e1b7d46acac.png?auto=format&expires=1745582400&h=64&w=64&s=5f5babc97b1186e9cfc990407f93f3e5",
+        "name": "Spring Hill Hawks"
+      },
+      "id": 301974,
+      "team": {
+        "id": 301974,
+        "name": "10U - Burt - Red"
+      }
+    },
+    {
+      "club": {
+        "id": 419,
+        "image_url": "https://playmetrics-prod-ugc-2.imgix.net/c419/club/1659824115/cbf53d7240d1f559330d8e1b7d46acac.png?auto=format&expires=1745582400&h=64&w=64&s=5f5babc97b1186e9cfc990407f93f3e5",
+        "name": "Spring Hill Hawks"
+      },
+      "id": 301975,
+      "team": {
+        "id": 301975,
+        "name": "10U - Hull - Navy Blue"
+      }
+    },
+    {
+      "club": {
+        "id": 419,
+        "image_url": "https://playmetrics-prod-ugc-2.imgix.net/c419/club/1659824115/cbf53d7240d1f559330d8e1b7d46acac.png?auto=format&expires=1745582400&h=64&w=64&s=5f5babc97b1186e9cfc990407f93f3e5",
+        "name": "Spring Hill Hawks"
+      },
+      "id": 302069,
+      "team": {
+        "id": 302069,
+        "name": "10U - Rosato - Gold"
+      }
+    },
+    {
+      "club": {
+        "id": 419,
+        "image_url": "https://playmetrics-prod-ugc-2.imgix.net/c419/club/1659824115/cbf53d7240d1f559330d8e1b7d46acac.png?auto=format&expires=1745582400&h=64&w=64&s=5f5babc97b1186e9cfc990407f93f3e5",
+        "name": "Spring Hill Hawks"
+      },
+      "id": 302462,
+      "team": {
+        "id": 302462,
+        "name": "10U - Court - Black"
+      }
+    },
+    {
+      "club": {
+        "id": 419,
+        "image_url": "https://playmetrics-prod-ugc-2.imgix.net/c419/club/1659824115/cbf53d7240d1f559330d8e1b7d46acac.png?auto=format&expires=1745582400&h=64&w=64&s=5f5babc97b1186e9cfc990407f93f3e5",
+        "name": "Spring Hill Hawks"
+      },
+      "id": 306599,
+      "team": {
+        "id": 306599,
+        "name": "10U - Leach - Lime Green"
+      }
+    },
+    {
+      "club": {
+        "id": 419,
+        "image_url": "https://playmetrics-prod-ugc-2.imgix.net/c419/club/1659824115/cbf53d7240d1f559330d8e1b7d46acac.png?auto=format&expires=1745582400&h=64&w=64&s=5f5babc97b1186e9cfc990407f93f3e5",
+        "name": "Spring Hill Hawks"
+      },
+      "id": 306600,
+      "team": {
+        "id": 306600,
+        "name": "10U - Swan - Pink"
+      }
+    },
+    {
+      "club": {
+        "id": 419,
+        "image_url": "https://playmetrics-prod-ugc-2.imgix.net/c419/club/1659824115/cbf53d7240d1f559330d8e1b7d46acac.png?auto=format&expires=1745582400&h=64&w=64&s=5f5babc97b1186e9cfc990407f93f3e5",
+        "name": "Spring Hill Hawks"
+      },
+      "id": 306601,
+      "team": {
+        "id": 306601,
+        "name": "10U - Abernathy - White"
+      }
+    },
+    {
+      "club": {
+        "id": 419,
+        "image_url": "https://playmetrics-prod-ugc-2.imgix.net/c419/club/1659824115/cbf53d7240d1f559330d8e1b7d46acac.png?auto=format&expires=1745582400&h=64&w=64&s=5f5babc97b1186e9cfc990407f93f3e5",
+        "name": "Spring Hill Hawks"
+      },
+      "id": 307757,
+      "team": {
+        "id": 307757,
+        "name": "10U - Collier - Orange"
+      }
+    }
+  ]
+}
